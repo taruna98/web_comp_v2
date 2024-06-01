@@ -10,8 +10,6 @@ use Controllers\ControllerHome;
 
 use Dotenv\Dotenv;
 
-// TESTING UPDATE GIT
-
 $dotenv = Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
