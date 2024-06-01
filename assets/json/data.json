@@ -1,0 +1,67 @@
+{
+    "profile": {
+        "id": 1,
+        "title": "Company Profile",
+        "company": "Kretech ID",
+        "hero": {
+            "title": "Website Service Solutions",
+            "desc": "Kami adalah tim kreatif yang membangun proyek digital dengan fitur terkini",
+            "img": "hero-img.png"
+        },
+        "about": {
+            "title": "Kami merupakan tim yang bisa diandalkan",
+            "subtitle": "Membantu Anda dalam membangun layanan berbasis website. Berikut ini layanan yang dapat kami sediakan:",
+            "point": [
+                {
+                    "text": "Landing Page"
+                },
+                {
+                    "text": "Content Management System (CMS)"
+                },
+                {
+                    "text": "REST API"
+                }
+            ],
+            "subtitle2": "Silahkan hubungi kami untuk konsultasi lebih lanjut."
+        },
+        "counts": [
+            {
+                "text": "Clients",
+                "count": "12"
+            },
+            {
+                "text": "Projects",
+                "count": "21"
+            },
+            {
+                "text": "Portfolio",
+                "count": "32"
+            }
+        ],
+        "services": {
+            "title": "Beberapa section dalam digital yang dapat kami bantu",
+            "point": [
+                {
+                    "icon": "bx bi-globe",
+                    "title": "Website Landing Page",
+                    "desc": "Landing page sederhana berbasis SPA atau yang lebih kompleks"
+                },
+                {
+                    "icon": "bx bx-tachometer",
+                    "title": "(Content Management System) CMS",
+                    "desc": "Layanan admin yang berfungsi untuk memelihara website public atau antarmuka user"
+                },
+                {
+                    "icon": "bi bi-database",
+                    "title": "REST API",
+                    "desc": "API (Application Programming Interface) aspek yang membuat interface antara satu program dengan yang lainnya lebih mudah dan dinamis"
+                }
+            ]
+        },
+        "cta": {
+            "title": "Website Landing Page",
+            "subtitle": "Kami juga menyediakan Website Landing Page untuk Personal Profile yang dapat Anda gunakan secara Gratis beserta dengan CMS nya.",
+            "img": "about.png"
+        }
+    }
+}
