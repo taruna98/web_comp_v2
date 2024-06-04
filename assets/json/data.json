@@ -27,15 +27,15 @@
         "counts": [
             {
                 "text": "Clients",
-                "count": "12"
+                "count": "13"
             },
             {
                 "text": "Projects",
-                "count": "21"
+                "count": "16"
             },
             {
                 "text": "Portfolio",
-                "count": "32"
+                "count": "24"
             }
         ],
         "services": {
@@ -61,7 +61,7 @@
         "cta": {
             "title": "Website Landing Page",
             "subtitle": "Kami juga menyediakan Website Landing Page untuk Personal Profile yang dapat Anda gunakan secara Gratis beserta dengan CMS nya.",
-            "img": "about.png"
+            "img": "landing-page.png"
         }
     }
 }
